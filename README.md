@@ -157,6 +157,14 @@ http://127.0.0.1:8000
 ```
 
 ---
+## Application Screenshots
+
+### Main Interface
+![Main UI](screenshots/main.png)
+
+### Emotion Detection Result
+![Emotion Detection Result](screenshots/out.png)
+---
 
 ## Example Workflow
 
